@@ -1,4 +1,4 @@
-public class ITxxxxxxxLab2Q1 {
+public class IT26102763Lab2Q1 {
     public static void main(String[] args) {
 
         double perimeter = 100.0;
